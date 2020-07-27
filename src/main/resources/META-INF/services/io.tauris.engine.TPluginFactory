@@ -1,0 +1,4 @@
+io.tauris.engine.TInputFactory
+io.tauris.engine.TFilterFactory
+io.tauris.engine.TOutputFactory
+io.tauris.engine.TWidgetFactory
